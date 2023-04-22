@@ -3,13 +3,12 @@
 <h1 align="center">Hi 👋, My name is Eric Ishimwe!</h1>
 <h2 align="center">Web Designer, Frontend Developer & Software Engineer</h2>
 
-**I am proficient in HTML5, CSS3, as well as JavaScript. I'm experienced in designing and developing both stattic and dynamic websites which are responsive**
+**I am proficient in HTML5, CSS3, as well as JavaScript. I'm experienced in designing and developing both static and dynamic websites which are responsive**
 
 <br>
-- 🤝 I'm open to <b>collaborating with anyone<b> <br>
-- 📨 Contact me at <b>ishimwericio@gmail.com<b>
-<br>
-<br>
+ 🤝 I'm open to <b>collaborating with anyone<b> <br>
+ 📨 Contact me at <b>ishimwericio@gmail.com<b>
+  
 <h3 align="left">Connect With Me:</h3>
 <p align="left"> <a href="https://twitter.com/eric_rw6" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="eric_rw6" height="30" width="40" /></a> <a href="https://linkedin.com/in/eric-rw6" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="eric-rw6" height="30" width="40" /></a> <a href="https://fb.com/ericrw6" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ericrw6" height="30" width="40" /></a> <a href="https://instagram.com/eric_rw6" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="eric_rw6" height="30" width="40" /></a> <a href="https://codepen.io/eircrw6" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="eircrw6" height="30" width="40" /></a> <a href="https://discord.gg/#3725" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="#3725" height="30" width="40" /></a> </p>
   
