@@ -5,7 +5,7 @@
 
 **I am proficient in HTML5, CSS3, as well as JavaScript. I'm experienced in designing and developing both static and dynamic websites which are responsive**
 
-<br>
+
  🤝 I'm open to <b>collaborating with anyone<b> <br>
  📨 Contact me at <b>ishimwericio@gmail.com<b>
   
