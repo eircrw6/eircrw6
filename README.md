@@ -1,10 +1,11 @@
-<img alt="Coding" width="100%" src="https://raw.githubusercontent.com/eircrw6/MINE/main/Images/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966.gif">
-
 <h1 align="center">Hi 👋, My name is Eric Ishimwe!</h1>
 <h2 align="center">Web Designer, Frontend Developer & Software Engineer</h2>
 
 **I am proficient in HTML5, CSS3, as well as JavaScript. I'm experienced in designing and developing both static and dynamic websites which are responsive**
 <br>
+<br>
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/eircrw6/MINE/main/Images/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966.gif">
+
  🤝 I'm open to <b>collaborating with anyone<b> <br>
  📨 Contact me at <b>ishimwericio@gmail.com<b>
   
